@@ -56,11 +56,6 @@
 pip install -r requirements.txt
 ```
 
-### 📌 การรัน Backtest
-```bash
-python backtest.py
-```
-
 ---
 
 ## ผลลัพธ์จาก Backtest
